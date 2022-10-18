@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wb+DdcFOknL1WKpSncf4CklOTMNFGCAiaXFtsVa2vTvrp+RSxbZnbLFgEK/o2MGdnSSKuCHl08XhBZ9l+njAcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rupert\\COMP584\\API assignment check in 1 - attempt02\\BikeListApi\\Comp584api\\BikeListApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rupert\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Rupert\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Rupert\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Rupert\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Rupert\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Rupert\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

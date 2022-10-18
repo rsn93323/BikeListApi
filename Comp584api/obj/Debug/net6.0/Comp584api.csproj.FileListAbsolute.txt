@@ -1,0 +1,81 @@
+C:\Users\Rupert\COMP584\API assignment check in 1\Comp584api\Comp584api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rupert\COMP584\API assignment check in 1\Comp584api\Comp584api\bin\Debug\net6.0\appsettings.json
+C:\Users\Rupert\COMP584\API assignment check in 1\Comp584api\Comp584api\bin\Debug\net6.0\Comp584api.exe
+C:\Users\Rupert\COMP584\API assignment check in 1\Comp584api\Comp584api\bin\Debug\net6.0\Comp584api.deps.json
+C:\Users\Rupert\COMP584\API assignment check in 1\Comp584api\Comp584api\bin\Debug\net6.0\Comp584api.runtimeconfig.json
+C:\Users\Rupert\COMP584\API assignment check in 1\Comp584api\Comp584api\bin\Debug\net6.0\Comp584api.dll
+C:\Users\Rupert\COMP584\API assignment check in 1\Comp584api\Comp584api\bin\Debug\net6.0\Comp584api.pdb
+C:\Users\Rupert\COMP584\API assignment check in 1\Comp584api\Comp584api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rupert\COMP584\API assignment check in 1\Comp584api\Comp584api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rupert\COMP584\API assignment check in 1\Comp584api\Comp584api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rupert\COMP584\API assignment check in 1\Comp584api\Comp584api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rupert\COMP584\API assignment check in 1\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.csproj.AssemblyReference.cache
+C:\Users\Rupert\COMP584\API assignment check in 1\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rupert\COMP584\API assignment check in 1\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.AssemblyInfoInputs.cache
+C:\Users\Rupert\COMP584\API assignment check in 1\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.AssemblyInfo.cs
+C:\Users\Rupert\COMP584\API assignment check in 1\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.csproj.CoreCompileInputs.cache
+C:\Users\Rupert\COMP584\API assignment check in 1\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rupert\COMP584\API assignment check in 1\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rupert\COMP584\API assignment check in 1\Comp584api\Comp584api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rupert\COMP584\API assignment check in 1\Comp584api\Comp584api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rupert\COMP584\API assignment check in 1\Comp584api\Comp584api\obj\Debug\net6.0\scopedcss\bundle\Comp584api.styles.css
+C:\Users\Rupert\COMP584\API assignment check in 1\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.csproj.CopyComplete
+C:\Users\Rupert\COMP584\API assignment check in 1\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.dll
+C:\Users\Rupert\COMP584\API assignment check in 1\Comp584api\Comp584api\obj\Debug\net6.0\refint\Comp584api.dll
+C:\Users\Rupert\COMP584\API assignment check in 1\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.pdb
+C:\Users\Rupert\COMP584\API assignment check in 1\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.genruntimeconfig.cache
+C:\Users\Rupert\COMP584\API assignment check in 1\Comp584api\Comp584api\obj\Debug\net6.0\ref\Comp584api.dll
+C:\Users\Rupert\COMP584\API assignment check in 1 - snapshot01\Comp584api\Comp584api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rupert\COMP584\API assignment check in 1 - snapshot01\Comp584api\Comp584api\bin\Debug\net6.0\appsettings.json
+C:\Users\Rupert\COMP584\API assignment check in 1 - snapshot01\Comp584api\Comp584api\bin\Debug\net6.0\Comp584api.exe
+C:\Users\Rupert\COMP584\API assignment check in 1 - snapshot01\Comp584api\Comp584api\bin\Debug\net6.0\Comp584api.deps.json
+C:\Users\Rupert\COMP584\API assignment check in 1 - snapshot01\Comp584api\Comp584api\bin\Debug\net6.0\Comp584api.runtimeconfig.json
+C:\Users\Rupert\COMP584\API assignment check in 1 - snapshot01\Comp584api\Comp584api\bin\Debug\net6.0\Comp584api.dll
+C:\Users\Rupert\COMP584\API assignment check in 1 - snapshot01\Comp584api\Comp584api\bin\Debug\net6.0\Comp584api.pdb
+C:\Users\Rupert\COMP584\API assignment check in 1 - snapshot01\Comp584api\Comp584api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rupert\COMP584\API assignment check in 1 - snapshot01\Comp584api\Comp584api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rupert\COMP584\API assignment check in 1 - snapshot01\Comp584api\Comp584api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rupert\COMP584\API assignment check in 1 - snapshot01\Comp584api\Comp584api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rupert\COMP584\API assignment check in 1 - snapshot01\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.csproj.AssemblyReference.cache
+C:\Users\Rupert\COMP584\API assignment check in 1 - snapshot01\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rupert\COMP584\API assignment check in 1 - snapshot01\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.AssemblyInfoInputs.cache
+C:\Users\Rupert\COMP584\API assignment check in 1 - snapshot01\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.AssemblyInfo.cs
+C:\Users\Rupert\COMP584\API assignment check in 1 - snapshot01\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.csproj.CoreCompileInputs.cache
+C:\Users\Rupert\COMP584\API assignment check in 1 - snapshot01\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rupert\COMP584\API assignment check in 1 - snapshot01\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rupert\COMP584\API assignment check in 1 - snapshot01\Comp584api\Comp584api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rupert\COMP584\API assignment check in 1 - snapshot01\Comp584api\Comp584api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rupert\COMP584\API assignment check in 1 - snapshot01\Comp584api\Comp584api\obj\Debug\net6.0\scopedcss\bundle\Comp584api.styles.css
+C:\Users\Rupert\COMP584\API assignment check in 1 - snapshot01\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.csproj.CopyComplete
+C:\Users\Rupert\COMP584\API assignment check in 1 - snapshot01\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.dll
+C:\Users\Rupert\COMP584\API assignment check in 1 - snapshot01\Comp584api\Comp584api\obj\Debug\net6.0\refint\Comp584api.dll
+C:\Users\Rupert\COMP584\API assignment check in 1 - snapshot01\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.pdb
+C:\Users\Rupert\COMP584\API assignment check in 1 - snapshot01\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.genruntimeconfig.cache
+C:\Users\Rupert\COMP584\API assignment check in 1 - snapshot01\Comp584api\Comp584api\obj\Debug\net6.0\ref\Comp584api.dll
+C:\Users\Rupert\COMP584\API assignment check in 1 - attempt02\Comp584api\Comp584api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rupert\COMP584\API assignment check in 1 - attempt02\Comp584api\Comp584api\bin\Debug\net6.0\appsettings.json
+C:\Users\Rupert\COMP584\API assignment check in 1 - attempt02\Comp584api\Comp584api\bin\Debug\net6.0\Comp584api.exe
+C:\Users\Rupert\COMP584\API assignment check in 1 - attempt02\Comp584api\Comp584api\bin\Debug\net6.0\Comp584api.deps.json
+C:\Users\Rupert\COMP584\API assignment check in 1 - attempt02\Comp584api\Comp584api\bin\Debug\net6.0\Comp584api.runtimeconfig.json
+C:\Users\Rupert\COMP584\API assignment check in 1 - attempt02\Comp584api\Comp584api\bin\Debug\net6.0\Comp584api.dll
+C:\Users\Rupert\COMP584\API assignment check in 1 - attempt02\Comp584api\Comp584api\bin\Debug\net6.0\Comp584api.pdb
+C:\Users\Rupert\COMP584\API assignment check in 1 - attempt02\Comp584api\Comp584api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rupert\COMP584\API assignment check in 1 - attempt02\Comp584api\Comp584api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rupert\COMP584\API assignment check in 1 - attempt02\Comp584api\Comp584api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rupert\COMP584\API assignment check in 1 - attempt02\Comp584api\Comp584api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rupert\COMP584\API assignment check in 1 - attempt02\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.csproj.AssemblyReference.cache
+C:\Users\Rupert\COMP584\API assignment check in 1 - attempt02\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rupert\COMP584\API assignment check in 1 - attempt02\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.AssemblyInfoInputs.cache
+C:\Users\Rupert\COMP584\API assignment check in 1 - attempt02\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.AssemblyInfo.cs
+C:\Users\Rupert\COMP584\API assignment check in 1 - attempt02\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.csproj.CoreCompileInputs.cache
+C:\Users\Rupert\COMP584\API assignment check in 1 - attempt02\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rupert\COMP584\API assignment check in 1 - attempt02\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rupert\COMP584\API assignment check in 1 - attempt02\Comp584api\Comp584api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rupert\COMP584\API assignment check in 1 - attempt02\Comp584api\Comp584api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rupert\COMP584\API assignment check in 1 - attempt02\Comp584api\Comp584api\obj\Debug\net6.0\scopedcss\bundle\Comp584api.styles.css
+C:\Users\Rupert\COMP584\API assignment check in 1 - attempt02\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.csproj.CopyComplete
+C:\Users\Rupert\COMP584\API assignment check in 1 - attempt02\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.dll
+C:\Users\Rupert\COMP584\API assignment check in 1 - attempt02\Comp584api\Comp584api\obj\Debug\net6.0\refint\Comp584api.dll
+C:\Users\Rupert\COMP584\API assignment check in 1 - attempt02\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.pdb
+C:\Users\Rupert\COMP584\API assignment check in 1 - attempt02\Comp584api\Comp584api\obj\Debug\net6.0\Comp584api.genruntimeconfig.cache
+C:\Users\Rupert\COMP584\API assignment check in 1 - attempt02\Comp584api\Comp584api\obj\Debug\net6.0\ref\Comp584api.dll
